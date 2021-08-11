@@ -1,0 +1,1 @@
+return game.Players.LocalPlayer:Kick("азазаз пошел нахуй читер ебанный :pog:")
